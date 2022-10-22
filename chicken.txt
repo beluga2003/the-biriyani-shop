@@ -3,6 +3,12 @@
 step 1 :  Take some chicken
 step 2 :  marinate chicken
 
+<<<<<<< HEAD
 step 3 : (should be) add salt but the boy missed that : ( 
 
 step 3 : declared that the chicken is ready !
+=======
+step 3 : salt added ! 
+
+step 4 : declared that the chicken is ready !
+>>>>>>> boy
