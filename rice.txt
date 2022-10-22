@@ -2,3 +2,13 @@
 
 step 1 :  Take some rice
 step 2 :  soak the rice for 15 minutes
+
+step 3 :  put the rice in a pot
+step 4 : add water to the pot
+step 5 :  put the pot on the stove
+step 6 :  turn on the stove
+step 7 :  wait for the water to boil
+step 8 :  turn off the stove
+step 9 :  wait for the rice to cook
+step 10 :  take the rice out of the pot
+step 11 :  put the rice in a bowl
