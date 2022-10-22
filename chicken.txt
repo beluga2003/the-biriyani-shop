@@ -2,3 +2,7 @@
 
 step 1 :  Take some chicken
 step 2 :  marinate chicken
+
+step 3 : (should be) add salt but the boy missed that : ( 
+
+step 3 : declared that the chicken is ready !
